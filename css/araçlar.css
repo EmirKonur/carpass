@@ -1,0 +1,85 @@
+hr{
+	margin-right: 200px;
+	margin-left: 200px ;
+	size: 10px;
+}
+h2{
+	color: darkred;
+	padding-top: 30px;
+	margin-bottom: 30px;
+	margin-right: 200px;
+	margin-left: 200px ;
+}
+#aciklama{
+	margin-top: 40px;
+	margin-bottom: 30px;
+	margin-right: 200px;
+	margin-left: 200px ;
+}
+#renegade{
+	margin-left: 200px;
+	margin-top: 50px;
+	height: 230px;
+	width: 300px;
+}
+#Symbol{
+	margin-left: 50px;
+	height: 200px;
+	width: 320px;
+}
+#egea{
+	margin-left: 50px;
+	height: 220px;
+	width: 340px;
+}
+#Clio{
+	margin-left: 50px;
+	height: 200px;
+	width: 340px;
+}
+#passat{
+	margin-left: 200px;
+	height: 220px;
+	width: 340px;
+	margin-top: 30px;
+}
+#audi{
+	height: 220px;
+	width: 340px;
+	margin-top: 30px;
+}
+#bmw{
+	height: 240px;
+	width: 400px;
+	margin-top: 30px;
+}
+#golf{
+	height: 220px;
+	width: 340px;
+	margin-top: 30px;
+}
+#mercedes{
+	margin-left: 200px;
+    height: 220px;
+	width: 340px;
+	margin-top: 30px;
+}
+#Courier {
+	height: 220px;
+	width: 400px;
+	margin-top: 30px;
+}
+#zoe{
+	 height: 210px;
+	width: 340px;
+	margin-top: 30px;
+}
+#Qasqahi{
+	 height: 240px;
+	width: 340px;
+	margin-top: 30px;
+}
+#logo{
+ width: 150px;
+ height: 100px;
+}
